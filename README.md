@@ -14,7 +14,7 @@ To track the location of the device and give regular maintenance alerts
 •	**Mobile App Integration:** Create a mobile application for users to access the tracking system on smartphones and receive alerts.Ensure compatibility with both iOS and Android platforms.
 
 Mindmap
-![image](https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/1dcf4dc5-b494-4dfd-9007-e0b670f20df6)
+![image](https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/292ca498-8ce2-48ec-8438-3ee13727c79a)
 
 
 
