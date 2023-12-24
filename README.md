@@ -43,14 +43,19 @@ To track the location of the device and give regular maintenance alerts
 https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/da2d6f6c-735e-4a52-8575-cbdd2c4c1c7c
 
 
+<h3>Coordinates displayed in LCD</h3>
+
+![Untitled design](https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/9aaf3e28-fb3c-4f0e-afab-7673cac59050)
+
+<h2>Verification of Output</h2>
 
 
+![WhatsApp Image 2023-12-24 at 18 14 24_64e0cfcb](https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/ab5269f2-accd-4901-ab97-56b994d05446)
 
 
+![WhatsApp Image 2023-12-24 at 18 14 32_9867ffb9](https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/a05b11fd-47b0-4dde-9977-27774723023f)
 
-
-
-
+![WhatsApp Image 2023-12-24 at 18 14 40_232f7b1b](https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/1c4878a8-5589-41ff-a346-5e10a37b45f1)
 
 
 
