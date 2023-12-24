@@ -12,6 +12,9 @@ To track the location of the device and give regular maintenance alerts
 <p>•	<b>Real-Time GPS Tracking:</b> Utilize GPS modules with the ESP32 to enable real-time tracking of vehicle locations.Transmit GPS data to a central server or cloud platform for storage and analysis.</p>
 <p>•	<b>Remote Diagnostics:</b> Enable remote diagnostic capabilities to troubleshoot and identify vehicle issues without physical inspection.Implement two-way communication for sending commands to the vehicle's diagnostic systems.</p>
 <p>•	<b>Mobile App Integration:</b> Create a mobile application for users to access the tracking system on smartphones and receive alerts.Ensure compatibility with both iOS and Android platforms.</p>
+<p>•	<b>Interconnectivity:</b> IoT-enables interconnectivity between the assets means the vehicle details are displayed on the user's connected dashboard for quick access.</p>
+<p>•	<b>Improved Operational Efficiency:</b> An IoTized vehicle is a smart system that enables efficient performance. It improves productivity and returns the average of the vehicle by pre-defining the maintenance schedules and operational needs of the owner.</p>
+<p>•	<b>Environmental Sustainability:</b> It is estimated that the use of IoT reduces vehicles to travel to the site by 68%, which results in lower fuel consumption rates, thus produces minimized carbon footprint. Also, when the vehicles are interconnected through technology, the risk of accidents and injuries reduces to a significant level, thus increasing the vehicle's efficiency.</p> 
 
 <h1>Mind Map:</h1>
 
