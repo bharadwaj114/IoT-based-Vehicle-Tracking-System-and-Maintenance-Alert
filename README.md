@@ -16,6 +16,9 @@ To track the location of the device and give regular maintenance alerts
 <p>•	<b>Improved Operational Efficiency:</b> An IoTized vehicle is a smart system that enables efficient performance. It improves productivity and returns the average of the vehicle by pre-defining the maintenance schedules and operational needs of the owner.</p>
 <p>•	<b>Environmental Sustainability:</b> It is estimated that the use of IoT reduces vehicles to travel to the site by 68%, which results in lower fuel consumption rates, thus produces minimized carbon footprint. Also, when the vehicles are interconnected through technology, the risk of accidents and injuries reduces to a significant level, thus increasing the vehicle's efficiency.</p> 
 <p>•	<b>Preventative Maintenance:</b> The user or transportation business owner can get a better insight regarding the driver’s behavior by staying connected to every vehicle through IoT technology. It allows the user to monitor the vehicle’s overall health from any interconnected device and obtain real-time alerts as desired.</p>
+<p>•	<b>Easy Recovery of Stolen Car:</b> Easy Recovery of Stolen Car: In case of theft, a VTS can help the car owner or the police to locate the stolen vehicle quickly and increase the chances of recovery.</p>
+<p>•	<b>Gaining Insights:</b> A VTS can also provide data on the car's speed, fuel consumption, and maintenance status, helping the car owner to keep the car in good condition and plan for regular maintenance.</p>
+<p>•	<b>Peace of Mind:</b> A VTS can give an individual car owner peace of mind by allowing them to track the location of their vehicle in real time, especially when they are away from their car.</p>
 
 <h1>Mind Map:</h1>
 
