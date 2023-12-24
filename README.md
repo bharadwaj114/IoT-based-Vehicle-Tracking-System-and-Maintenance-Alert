@@ -1,4 +1,4 @@
-<p style="font-family:TypeArt Foundry.">
+<p style="font-family:TypeArt Foundry">
 <H1> IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert</H1>
 
 To track the location of the device and give regular maintenance alerts
