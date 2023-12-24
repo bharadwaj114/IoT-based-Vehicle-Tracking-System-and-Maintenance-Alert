@@ -9,9 +9,9 @@ To track the location of the device and give regular maintenance alerts
 •	**Customizable Alerts and Notifications:** Allow users to customize alert thresholds for different vehicle parameters.Implement a notification system that alerts users through various channels (e.g., mobile apps, email, SMS) based on predefined conditions.
 
 **Features:**
-<p>•	<H>Real-Time GPS Tracking:</H> Utilize GPS modules with the ESP32 to enable real-time tracking of vehicle locations.Transmit GPS data to a central server or cloud platform for storage and analysis.</p>
-<p>•	<H>Remote Diagnostics:</H> Enable remote diagnostic capabilities to troubleshoot and identify vehicle issues without physical inspection.Implement two-way communication for sending commands to the vehicle's diagnostic systems.</p>
-<p>•	<H>Mobile App Integration:</H> Create a mobile application for users to access the tracking system on smartphones and receive alerts.Ensure compatibility with both iOS and Android platforms.</p>
+<p>•	<h1>Real-Time GPS Tracking:</h1> Utilize GPS modules with the ESP32 to enable real-time tracking of vehicle locations.Transmit GPS data to a central server or cloud platform for storage and analysis.</p>
+<p>•	<h1>Remote Diagnostics:</h1> Enable remote diagnostic capabilities to troubleshoot and identify vehicle issues without physical inspection.Implement two-way communication for sending commands to the vehicle's diagnostic systems.</p>
+<p>•	<h1>Mobile App Integration:</h1> Create a mobile application for users to access the tracking system on smartphones and receive alerts.Ensure compatibility with both iOS and Android platforms.</p>
 
 **Mind Map:**
 ![image](https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/bb96de98-1d15-432c-a257-684a9995337f)
