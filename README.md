@@ -26,7 +26,8 @@ To track the location of the device and give regular maintenance alerts
 
 <h2>Block Diagram</h2>
 
-![image](https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/88ff84ec-18ce-4bf0-a308-a01e3119f8bc)
+![image](https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/c8760448-20e3-46e1-9a25-3bc5d235596a)
+
 
 <h2>Flow Chart</h2>
 
