@@ -13,10 +13,12 @@ To track the location of the device and give regular maintenance alerts
 <p>•	<b>Remote Diagnostics:</b> Enable remote diagnostic capabilities to troubleshoot and identify vehicle issues without physical inspection.Implement two-way communication for sending commands to the vehicle's diagnostic systems.</p>
 <p>•	<b>Mobile App Integration:</b> Create a mobile application for users to access the tracking system on smartphones and receive alerts.Ensure compatibility with both iOS and Android platforms.</p>
 
-<h1>Mind Map:</h1>
+<h1>Mind Map:**</h1>
+
 ![image](https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/bb96de98-1d15-432c-a257-684a9995337f)
 
 <h1>Flow Chart</h1>
+
 ![image](https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/eb95f7da-309c-492f-ba75-ef2a3968c32d)
 
 <h1>Block Diagram</h1>
