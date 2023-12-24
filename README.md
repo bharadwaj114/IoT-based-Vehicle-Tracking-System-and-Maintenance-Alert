@@ -54,7 +54,11 @@ To track the location of the device and give regular maintenance alerts
 <h2>VIDEO</h2>
 
 
-https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/da2d6f6c-735e-4a52-8575-cbdd2c4c1c7c
+
+
+
+https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/ead532e4-b2bd-482d-8896-0afbc244cd3f
+
 
 
 <h3>Coordinates displayed in LCD</h3>
