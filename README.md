@@ -1,5 +1,5 @@
 <p style="font-family:TypeArt Foundry">
-<H1> IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert</H1>
+<H1> IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert</H1></p>
 
 To track the location of the device and give regular maintenance alerts
 
@@ -37,7 +37,7 @@ To track the location of the device and give regular maintenance alerts
 
 
 
-</p>
+
 
 
 
