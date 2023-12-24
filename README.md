@@ -37,6 +37,10 @@ To track the location of the device and give regular maintenance alerts
 <h2>Algorithm</h2>
 
 
+<h2>VIDEO</h2>
+
+
+https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/da2d6f6c-735e-4a52-8575-cbdd2c4c1c7c
 
 
 
