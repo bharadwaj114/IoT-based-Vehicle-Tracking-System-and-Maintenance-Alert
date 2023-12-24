@@ -1,4 +1,4 @@
-<h1 style="font-family:Helvetica"> IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert</h1>
+<h1 style="font-family:Times New Roman;"> IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert</h1>
 
 To track the location of the device and give regular maintenance alerts
 
