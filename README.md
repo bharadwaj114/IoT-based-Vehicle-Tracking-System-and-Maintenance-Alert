@@ -36,6 +36,19 @@ To track the location of the device and give regular maintenance alerts
 
 <h2>Algorithm</h2>
 
+<p>•	START</p>
+<p>•	Initialize TinyGPS++.h, SoftwareSerial.h and LiquidCrystal.h files</p>
+<p>•	Define pin connections of LCD display</p>
+<p>•	Define Latitude, Longitude, Altitude and pot and GPS module pin connections</p>
+<p>•	Print initialization message on Serial and LCD</p>
+<p>•	Main loop function</p>
+<p>•	Check for incoming characters from the GPS</p>
+<p>•	Feed serial NMEA data into the GPS library one character at a time</p>
+<p>•	Check if GPS location is updated</p>
+<p>•	Display information on Serial monitor and LCD</p>
+<p>•	End</p>
+
+
 
 <h2>VIDEO</h2>
 
