@@ -64,7 +64,7 @@ https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenanc
 <h2>Verification of Output</h2>
 
 
-![WhatsApp Image 2023-12-24 at 18 14 24_64e0cfcb](https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/ab5269f2-accd-4901-ab97-56b994d05446)
+
 
 
 ![WhatsApp Image 2023-12-24 at 18 14 32_9867ffb9](https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/a05b11fd-47b0-4dde-9977-27774723023f)
