@@ -17,7 +17,8 @@ To track the location of the device and give regular maintenance alerts
 ![image](https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/bb96de98-1d15-432c-a257-684a9995337f)
 
 **Flow Chart**
-![image](https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/a91d4e02-3514-481f-9590-ade5632a92bb)
+![image](https://github.com/bharadwaj114/IoT-based-Vehicle-Tracking-System-and-Maintenance-Alert/assets/153083069/9d973fdb-9ca8-496d-8322-7d18c921d31c)
+
 
 
 
