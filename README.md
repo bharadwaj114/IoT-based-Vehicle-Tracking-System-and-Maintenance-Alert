@@ -15,6 +15,7 @@ To track the location of the device and give regular maintenance alerts
 <p>•	<b>Interconnectivity:</b> IoT-enables interconnectivity between the assets means the vehicle details are displayed on the user's connected dashboard for quick access.</p>
 <p>•	<b>Improved Operational Efficiency:</b> An IoTized vehicle is a smart system that enables efficient performance. It improves productivity and returns the average of the vehicle by pre-defining the maintenance schedules and operational needs of the owner.</p>
 <p>•	<b>Environmental Sustainability:</b> It is estimated that the use of IoT reduces vehicles to travel to the site by 68%, which results in lower fuel consumption rates, thus produces minimized carbon footprint. Also, when the vehicles are interconnected through technology, the risk of accidents and injuries reduces to a significant level, thus increasing the vehicle's efficiency.</p> 
+<p>•	<b>Preventative Maintenance:</b> The user or transportation business owner can get a better insight regarding the driver’s behavior by staying connected to every vehicle through IoT technology. It allows the user to monitor the vehicle’s overall health from any interconnected device and obtain real-time alerts as desired.</p>
 
 <h1>Mind Map:</h1>
 
