@@ -10,9 +10,7 @@ To track the location of the device and give regular maintenance alerts
 
 **Features:**
 •	**Real-Time GPS Tracking:** Utilize GPS modules with the ESP32 to enable real-time tracking of vehicle locations.Transmit GPS data to a central server or cloud platform for storage and analysis.
-
 •	**Remote Diagnostics:** Enable remote diagnostic capabilities to troubleshoot and identify vehicle issues without physical inspection.Implement two-way communication for sending commands to the vehicle's diagnostic systems.
-
 •	**Mobile App Integration:** Create a mobile application for users to access the tracking system on smartphones and receive alerts.Ensure compatibility with both iOS and Android platforms.
 
 **Mind Map:**
